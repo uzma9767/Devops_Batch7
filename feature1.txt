@@ -1,7 +1,10 @@
 THis is my first Fetaure 
 I am happy fior it
+<<<<<<< HEAD
 
 THis is fot my second commit
 
 This is a gadbad commit and will rever changes
 
+=======
+>>>>>>> parent of 25bdd48 (feature1-2 commit added on dev)
